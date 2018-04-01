@@ -334,7 +334,7 @@ a{
 }
 .contacts{
     width: 100%;
-    height: 520px;
+    height: 340px;
     background-color: #7FCCDA;
 }
 .clients-l{
@@ -449,11 +449,13 @@ textarea.contact-us{
 .footer {
     background: #374242;
     padding-top: 30px;
+	
     padding-bottom: 22px;
     font-size: 14px;
     line-height: 30px;
     font-weight: 500;
     color: #fff;
+	margin-top: 83px;
 }
 ul.clients-list {S
     margin: 0; 
